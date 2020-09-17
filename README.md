@@ -1,1 +1,1 @@
-# stock-prediction-usding-rf
+# stock-prediction-using-rf
